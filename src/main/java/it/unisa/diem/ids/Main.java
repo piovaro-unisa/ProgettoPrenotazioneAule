@@ -7,5 +7,6 @@ public class Main {
             System.out.println("Prova a vedere se va");
             System.out.println("PROVAGIT!");
             System.out.println("ProvaNetBeans");
+            System.out.println("Il fetch/pull/push funziona");
         }
     }
