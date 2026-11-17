@@ -8,6 +8,5 @@ public class Main {
             System.out.println("PROVAGIT!");
             System.out.println("ProvaNetBeans");
             System.out.println("Il fetch/pull/push funziona");
-            System.out.println("Prova se funziona dal mio Netbeans. -Greta");
         }
     }
