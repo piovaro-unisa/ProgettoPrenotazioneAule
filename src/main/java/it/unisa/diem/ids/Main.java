@@ -6,5 +6,6 @@ public class Main {
     public static void main(String[] args) {
             System.out.println("Prova a vedere se va");
             System.out.println("PROVAGIT!");
+            System.out.println("ProvaNetBeans");
         }
     }
