@@ -9,5 +9,7 @@ public class Main {
             System.out.println("ProvaNetBeans");
             System.out.println("Il fetch/pull/push funziona");
             //provo a scrivere provo io
+            System.out.println("Ciao da rtucci");
+
         }
     }
